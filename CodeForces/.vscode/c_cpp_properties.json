@@ -1,0 +1,54 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "c:/Users/Asus/OneDrive/Área de Trabalho/Programaçao/Maratona programação/CodeForces/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.19041.0",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-msvc-x64",
+            "compilerPath": "",
+            "compilerPathInCppPropertiesJson": "C:/MinGW/bin/g++.exe",
+            "mergeConfigurations": false,
+            "browse": {
+                "path": [
+                    "c:/Users/Asus/OneDrive/Área de Trabalho/Programaçao/Maratona programação/CodeForces/**",
+                    "${workspaceFolder}"
+                ],
+                "limitSymbolsToIncludedHeaders": true
+            }
+        },
+        {
+            "name": "Win32-MinGW",
+            "includePath": [
+                "c:/Users/Asus/OneDrive/Área de Trabalho/Programaçao/Maratona programação/CodeForces/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.19041.0",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-gcc-x64",
+            "mergeConfigurations": false,
+            "compilerPath": "C:/MinGW/bin/g++.exe",
+            "browse": {
+                "path": [
+                    "c:/Users/Asus/OneDrive/Área de Trabalho/Programaçao/Maratona programação/CodeForces/**",
+                    "${workspaceFolder}"
+                ],
+                "limitSymbolsToIncludedHeaders": true
+            }
+        }
+    ],
+    "version": 4
+}
