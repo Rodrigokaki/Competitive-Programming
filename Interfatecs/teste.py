@@ -1,4 +1,3 @@
-a = [1,2,3]
-b = [1,2,3,4,5,6,7,8]
+teste = 4.123
 
-print(a in b)
+print(f'{teste:.2f}')
