@@ -1,8 +1,3 @@
-n, targetSum = int(input().split())
-nums = list(map(int, input().split()))
+teste = ['12', '123', '42', '12325']
 
-right = 0
-curSum = 0
-for left in range(n):
-    while right < n and curSum < targetSum:
-        
+print(*teste)

@@ -1,3 +1,3 @@
-teste = 4.123
+test = 'ASDASDASD'
 
-print(f'{teste:.2f}')
+test[2] = 'C'
